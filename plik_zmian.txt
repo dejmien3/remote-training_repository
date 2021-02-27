@@ -1,2 +1,4 @@
 dupa kupa
 dodanie nowego wpisu
+
+zmiany wprowadzone na branchu
