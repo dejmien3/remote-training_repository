@@ -2,4 +2,4 @@ dupa kupa
 dodanie nowego wpisu
 zmiany na masterze
 zmiany wprowadzone na branchu
-
+dodanie wiersza z zewnątrz
