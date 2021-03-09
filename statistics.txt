@@ -4,3 +4,4 @@ adding line on new_branch:
 kocinka, psinka, wołowinka
 
 zmiana 1 na master
+zmiana 2 na master
