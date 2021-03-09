@@ -2,3 +2,5 @@ invasion, corrosion, abrasion
 
 adding line on new_branch:
 kocinka, psinka, wołowinka
+
+zmiana 1 na master
