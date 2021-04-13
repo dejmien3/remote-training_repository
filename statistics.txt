@@ -1,5 +1,5 @@
 invasion, corrosion, abrasion
-
+edyta, z kopyta ile warta jest ta plyta
 adding line on new_branch:
 kocinka, psinka, wołowinka
 klocek
