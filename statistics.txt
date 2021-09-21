@@ -1,7 +1,7 @@
 invasion, corrosion, abrasion
-
+edyta, z kopyta ile warta jest ta plyta
 adding line on new_branch:
 kocinka, psinka, wołowinka
-
 zmiana 1 na master
 zmiana 2 na master
+klocek
